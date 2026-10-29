@@ -27,7 +27,7 @@ Dark Hub currently provides support for **Blox Fruits**, with its systems organi
 ```lua
 repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
 getgenv().Team = "Marines" -- Pirates/Marines
-loadstring(game:HttpGet("https://raw.githubusercontent.com/XXBLACKXX-OFC/DarkBlack/refs/heads/main/Loader/Loader-BloxFruits.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkHub-Oficial/Dark-Hub/refs/heads/main/Loader/Loader-BloxFruits.luau"))()
 ```
 
 > Change `Marines` to `Pirates` if needed.
